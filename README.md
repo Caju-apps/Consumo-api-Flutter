@@ -1,16 +1,8 @@
-# consumo_api_class
+# Consumo de apis em Flutter
 
-A new Flutter project.
+Um APP simples que consumir dados da API [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
-## Getting Started
+Esse APP faz as mais comum requisições de uma API a GET, POST, PUT e DELETE.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Todo o código desenvovimento foi em feito em um vídeo disponivel no Youtube pelo link:
+[Link da Playlist](https://www.youtube.com/playlist?list=PLAnsuxKA_JPZPdlX3Xt4Y_Wn9WArRetVA)
